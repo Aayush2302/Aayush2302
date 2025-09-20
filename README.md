@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aayush Jivani!
 
-🎓 **Student at L.D. College of Engineering** - IT Branch  
+🎓 **MTech Student at SVNIT-Surat**  
 💻 **Full Stack (MERN) Developer** | **AI & ML Enthusiast** | **Problem Solver**   
 
 ---
